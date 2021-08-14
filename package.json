@@ -1,8 +1,11 @@
 {
 	"name": "fcc-learn-npm-package-json",
-	"keywords": ["Marie Knowlton", " Freecodecamp", "Learn to be a  programer"],
+	"keywords": [ "descriptive", "related", "freecodecamp" ],
 	"description": "A project that does something Awsome",
+	"license": "MIT",
+	"version": "1.2.0",
 	"dependencies": {
+		"moment": "2.10.0",
 		"express": "^4.14.0"
 	},
 	"main": "server.js",
