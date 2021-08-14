@@ -1,5 +1,7 @@
 {
 	"name": "fcc-learn-npm-package-json",
+	"keywords": ["Marie Knowlton", " Freecodecamp", "Learn to be a  programer"],
+	"description": "A project that does something Awsome",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
